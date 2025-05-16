@@ -1,4 +1,14 @@
-## Hi there 👋
+# Nagłówek nr 1 - mój projekt
+
+## Nagłówek nr 2 - sekcja 1
+
+Jakiś tam tekst.
+Teraz dodamy listę:
+
+ - W tym punkcje mamy **pogrubione słowo**
+   - i w podpunkcie *słowo z kursywą*
+ - A drugi punkt będzie z [linkiem do AdminAkademia](adminakademia.pl)
+   
 
 <!--
 **adminakademiagit/adminakademiagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
